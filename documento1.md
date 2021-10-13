@@ -1,7 +1,3 @@
-Edição
-Edição 2
-Edição 3
-Edição 4
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada
 fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae,
